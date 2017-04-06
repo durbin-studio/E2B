@@ -1,0 +1,113 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        is-multidex="false"
+        jar="C:\Users\user\AppData\Local\Android\sdk\extras\m2repository\com\android\support\constraint\constraint-layout-solver\1.0.0-alpha8\constraint-layout-solver-1.0.0-alpha8.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="80c371a4fd5e1b77f0e3a25b171356878543ffdd">
+        <dex dex="C:\Users\user\Workstation\Android\E2BNumberChanger\app\build\intermediates\pre-dexed\debug\constraint-layout-solver-1.0.0-alpha8_cac14b41d54b36e88fcd3599b03266ca1ed98ee4.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\user\.android\build-cache\62b15e4557571a08c3f6989832c0f6e3abfa8367\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="4a26a1154d053ab11aaf4c3967c42a4d66390991">
+        <dex dex="C:\Users\user\Workstation\Android\E2BNumberChanger\app\build\intermediates\pre-dexed\debug\classes_221fb9691f658d7e8163a138f3e5b579c2fe763a.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\user\.android\build-cache\07a0bbf4157ba2407ec2493d8052fb9a986710ad\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="d7c42c80f6509b9ea4db28ca7859ffae08ec5741">
+        <dex dex="C:\Users\user\Workstation\Android\E2BNumberChanger\app\build\intermediates\pre-dexed\debug\classes_97f8b82fac17f3faf5394d5b91acc4c8f54f522a.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\user\.android\build-cache\d1d99cb2626496d1ed3a783424a83e1432bad99c\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="052f5f840f21174a3ecf6544130194e2652cbb73">
+        <dex dex="C:\Users\user\Workstation\Android\E2BNumberChanger\app\build\intermediates\pre-dexed\debug\classes_9004dfc36dcd415dabd37202f88966b365184da2.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\user\.android\build-cache\30086f9b520408bbea1ca1188014df1d1e749a3a\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="da27a32db6af8954ee8061537c7d476fcb1df46f">
+        <dex dex="C:\Users\user\Workstation\Android\E2BNumberChanger\app\build\intermediates\pre-dexed\debug\classes_9975cb08c3c4bd208779849744ac12d0c7d1ed9c.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\user\.android\build-cache\1f6b69883d86f98f9ead7c8ef715d17369aae904\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="6ef31f1555bb4cc513ec8d52711365a8b89f3600">
+        <dex dex="C:\Users\user\Workstation\Android\E2BNumberChanger\app\build\intermediates\pre-dexed\debug\classes_797ed3f643602ce82c5062336b53c7946436ab8f.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\user\.android\build-cache\70b7408688c19cacbe9e4a2b1783cecd6ea98cfd\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="0e753ea8d0a2dea270da7d96a7d6e9d2e9c10f94">
+        <dex dex="C:\Users\user\Workstation\Android\E2BNumberChanger\app\build\intermediates\pre-dexed\debug\classes_b68af3aec2876dc296d74e3024a95751a45d784d.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\user\.android\build-cache\d92a88dea74087bd70660dbdec6dab762ce1bf43\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="45f697922e6f072daa12f8a2995dc77ab03c11da">
+        <dex dex="C:\Users\user\Workstation\Android\E2BNumberChanger\app\build\intermediates\pre-dexed\debug\classes_0276dc6715c46ee86e205b6166e796f9666a9a0a.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\user\.android\build-cache\5ad125bc56dd0ef4c5e9f5f95626d901a93fe30d\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="150252b33b00274cc868578ade018fda0d43a3eb">
+        <dex dex="C:\Users\user\Workstation\Android\E2BNumberChanger\app\build\intermediates\pre-dexed\debug\classes_8b44b9f361e729fcc6c40efca57e018fb0835c25.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\user\.android\build-cache\27434f9a4a5da7511f7d22fc7c3173d51a0e12a6\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="47635644d0d5c103c1dd8360549eb9ba3225c7d3">
+        <dex dex="C:\Users\user\Workstation\Android\E2BNumberChanger\app\build\intermediates\pre-dexed\debug\classes_3c8c1299650943aad2e7aa04508b85d9d7f3f06b.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\user\AppData\Local\Android\sdk\extras\android\m2repository\com\android\support\support-annotations\25.3.1\support-annotations-25.3.1.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="bf8841d29fa39e077730e7a91222c2ce269fa7c9">
+        <dex dex="C:\Users\user\Workstation\Android\E2BNumberChanger\app\build\intermediates\pre-dexed\debug\support-annotations-25.3.1_a5a2825b34de3f3f7ae9d3d699d30b462eec82a0.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\user\.android\build-cache\7ed14d0a161bc1f233251ed5f227e32d9fea9f33\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="efb8cb62d47d157c29d1521daac7eefd4cb881ee">
+        <dex dex="C:\Users\user\Workstation\Android\E2BNumberChanger\app\build\intermediates\pre-dexed\debug\classes_b881ebef96853054ae74e435d022f7b704f8d4a4.jar" />
+    </item>
+
+</items>
