@@ -40,20 +40,19 @@ task generateSourcesJar(type: Jar) {
 }
 
 bintray {
-    user = ''
-    key = ''
+    user = 'durbin-studio'
+    key = 'ba59b620d270c91218d6a9d195c8adabe438fc33'
     configurations = ['archives']
     pkg {
         repo = 'maven'
         name = 'E2BNumberChanger'
         userOrg = 'aflion.com'
         licenses = ['Apache-2.0']
-        vcsUrl = 'https://github.com/durbin-studio/E2BNumberChanger'
+        vcsUrl = 'https://github.com/durbin-studio/E2B.git'
         version {
             name = '0.1'
             desc = 'convert english text to bangla (only numbers)'
             vcsTag = '0.1'
-            attributes = ['gradle-plugin': 'com.use.less:com.use.less.gradle:gradle-useless-plugin']
         }
     }
 }
